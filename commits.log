@@ -1,0 +1,104 @@
+commit b6cfd0a34c617bd7024a5d260c82f31a43cfb8bd
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 18:18:05 2022 +1000
+
+    Agregando 2 párrafos
+
+commit a777708c63d8f3c168c1a3db37cd07ecc258819e
+Merge: 56f40c5 154fd5f
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 18:08:23 2022 +1000
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 56f40c52e2bf92e0622d99b0667bc141473a4ea7
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 17:13:02 2022 +1000
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 154fd5f3326433a72f2ff63b5329ee6267ed69b4
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 17:13:02 2022 +1000
+
+    Agregando estaciones del año
+
+commit 30b95ed88f883aa96a39ebf5c25c6ffe98b2a592
+Merge: 69d3242 1308893
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 15:48:52 2022 +1000
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 13088935ab87e2be971ce234d8544c968eb26f12
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 15:42:03 2022 +1000
+
+    Agregando index.js al index.html
+
+commit 69d3242c2fbeaf9d4b9c526b4d719d4f1374e8f6
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 15:38:27 2022 +1000
+
+    Agregando style.css al index.html
+
+commit 8ffcb0bccae6368dad9a83f0a730409b7fa34df6
+Merge: f27b96f f48f73b
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 15:17:03 2022 +1000
+
+    Merge branch 'js'
+
+commit f48f73be30836b1cf03ec60743ebff0e5f956388
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 03:12:01 2022 +1000
+
+    Creando index.js
+
+commit f27b96fa8353b979676786cf2dfba9f5611c3a5d
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 03:05:58 2022 +1000
+
+    Creando style.css
+
+commit 1d8efa7d738367e3c7d27c9466e3a716c66188b8
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 03:00:52 2022 +1000
+
+    Creando index.html
+
+commit 90bfb0567fc29f50ccf0f24d7d70642643b9bf82
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 02:38:34 2022 +1000
+
+    Ignorando archivos .exe
+
+commit 143f831addca57c578bc4f549a0ce85ec4b88055
+Author: pipe-mv <82127781+pipe-mv@users.noreply.github.com>
+Date:   Sat Aug 13 01:48:05 2022 +1000
+
+    Creando licencia del repositorio
+
+commit 9af83b6d526ab9d461f0b5ed452131df9c6d3232
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 01:41:56 2022 +1000
+
+    Agregando mas contenido al README
+
+commit d2242578f3319b128d3bb441d7215a7aad9f75a6
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Sat Aug 13 01:37:10 2022 +1000
+
+    Agregando mas contenido al README
+
+commit 629178e5b8324c0a62bfa2df1ed8ab79863b6e10
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Fri Aug 12 20:02:39 2022 +1000
+
+    Agregando contenido inicial al README
+
+commit e30c1662159c27dc1b733fd45326600b4149a30c
+Author: Felipe Marín Vásquez <pipemv@felipes-mbp.home>
+Date:   Fri Aug 12 19:10:49 2022 +1000
+
+    Primer commit 😉
